@@ -1,1 +1,2 @@
-<?php echo "Veikia"; ?>
+<?php echo "Veikia su GIT"; ?>
+
