@@ -8,8 +8,8 @@
 <body>
 <h1> <i> <b> Domantas </i> </b>  - HTML <?php print 'ir PHP' ?> asas! </h1>
 
-<p> Moku kurti dinaminį turinį.
-    Atidaryta: <?php print date('y/m/d h:m:s') ?> 
+<p> Moku kurti dinaminį turinį. </p>
+<p>   Atidaryta: <i> <?php print date('y/m/d h:m:s') ?> </i> </p>
 
 </body>
 
